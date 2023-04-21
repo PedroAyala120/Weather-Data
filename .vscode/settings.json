@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "/workspaces/Weather-Data",
+    "files.associations": {
+        "ostream": "cpp"
+    }
+}
